@@ -35,6 +35,8 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/giphy.gif" width="216" height="384"><br>
 
 ## Implement different feature extrators
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/combine5.jpg" width="216" height="384">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/cross_false.jpg" width="216" height="384">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif" width="216" height="384">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif" width="216" height="384"><br>
 
