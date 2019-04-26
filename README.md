@@ -27,6 +27,8 @@
 
 ## Implement different feature extrators
 
+![alt text](https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif)
+![alt text](https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif)
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif">
 
