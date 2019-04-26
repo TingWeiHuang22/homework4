@@ -44,4 +44,7 @@
 以下為透過SURF feature extrator所產生出來的gif檔<br><br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif" width="216" height="384"><br>
 
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/matches5.jpg" width="400" height="400">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/matches5.jpg" width="400" height="400">
+
 ## Add some image processing to enhance effect
