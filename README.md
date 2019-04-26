@@ -38,6 +38,7 @@
 以下兩張圖是吾組再進行Surf這個feature extrator的過程中，發現的一個需要注意的點，那就吾組再自行撰寫的程式中matcher=cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=cross)的crossCheck的bool值為true還是false，會影響最後生成的圖片。左圖的cross為false，其圖片最後面的建築物本應是正的，卻會變成斜體的，然而右圖的cross為true，其圖片最後面的建築物則如預期一樣為正。吾組認為會造成此現在的原因在於，若是crossCheck的值不為true的話，再兩張圖片進行matching後的線會彼此交錯，而這交錯就會導致圖片中的背景因此會迥異於原本應有的形狀。是故吾組認為再不論是ORB SIFT SURF的crossCheck都應該設成true，以避免上述情況發生。<br><br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/cross_false.jpg" width="216" height="384">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/combine5.jpg" width="216" height="384">
+以下所產生的gif，其crossCheck的值皆為true，至於false的部分則暫不討論。<br><br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif" width="216" height="384">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif" width="216" height="384"><br>
 
