@@ -13,7 +13,7 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/5.png" width="216" height="384">
 
 ## Feature extraction and matching results
-以下圖片為我們透過ORB這個方法進行Feature extraction and matching所產生的結果。而左邊的圖片為第一部分中所提及的moving forward的images，右邊為上一個timestep align完的圖片擷取中間的結果。
+以下圖片為我們透過ORB這個方法進行Feature extraction and matching所產生的結果。而左邊的圖片為第一部分中所提及的moving forward的images，右邊為上一個timestep align完的圖片擷取中間的結果。<br><br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches1.jpg" width="400" height="400">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches2.jpg" width="400" height="400">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches3.jpg" width="400" height="400">
@@ -22,20 +22,19 @@
 
 ## Image alignment and infinite zooming effect
 以下附圖為第一部分所提及前2張 moving forward的images align後所形成的圖片。<br>
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine1.jpg" width="216" height="384"><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine1.jpg" width="216" height="384"><br><br>
 以下附圖為第一部分所提及前3張 moving forward的images align後所形成的圖片。<br>
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine2.jpg" width="216" height="384"><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine2.jpg" width="216" height="384"><br><br>
 以下附圖為第一部分所提及前4張 moving forward的images align後所形成的圖片。<br>
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine3.jpg" width="216" height="384"><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine3.jpg" width="216" height="384"><br><br>
 以下附圖為第一部分所提及前5張 moving forward的images align後所形成的圖片。<br>
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine4.jpg" width="216" height="384"><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine4.jpg" width="216" height="384"><br><br>
 以下附圖為第一部分所提及前6張 moving forward的images align後所形成的圖片。<br>
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine5.jpg" width="216" height="384"><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine5.jpg" width="216" height="384"><br><br>
 而gif檔案則為zooming effect<br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/giphy.gif" width="216" height="384"><br>
 
 ## Implement different feature extrators
-  
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif" width="216" height="384">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif" width="216" height="384"><br>
 
