@@ -7,7 +7,7 @@
 ，再對影片中的frame進行擷取，選出以下 Moving-foward的images!
 
 <br>
-![alt text](https://github.com/TingWeiHuang22/homework4/blob/master/picture/0.png)
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/0.png">
 
 ## Feature extraction and matching results
 
