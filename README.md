@@ -11,6 +11,10 @@
 
 ## Feature extraction and matching results
 
+### Feature extraction
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches1.jpg width="200" height="200">
+<br>
+
 ## Image alignment and infinite zooming effect
 
 ## Implement different feature extrators
