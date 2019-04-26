@@ -8,11 +8,11 @@
 
 ## Feature extraction and matching results
 
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches1.jpg" width="194" height="192">
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches2.jpg" width="177" height="192">
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches3.jpg" width="163" height="192">
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches4.jpg" width="152" height="192">
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches5.jpg" width="143" height="192">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches1.jpg">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches2.jpg">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches3.jpg">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches4.jpg">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches5.jpg">
 
 ## Image alignment and infinite zooming effect
 
