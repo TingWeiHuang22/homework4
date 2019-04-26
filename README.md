@@ -14,9 +14,9 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches4.jpg" width="200" height="200">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches5.jpg" width="200" height="200">
 
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/1.png" width="200" height="200">
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/2.png" width="200" height="200">
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/3.png" width="200" height="200">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/1.png" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/2.png" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/3.png" width="200" height="200"/>
 
 ## Image alignment and infinite zooming effect
 
