@@ -8,6 +8,6 @@
 
 ## Image alignment and infinite zooming effect
 
-## Implement different feature extratorst
+## Implement different feature extrators
 
 ## Add some image processing to enhance effect
