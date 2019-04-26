@@ -8,6 +8,12 @@
 
 <br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/0.png" width="108" height="192">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/1.png" width="108" height="192">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/2.png" width="108" height="192">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/3.png" width="108" height="192"><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/4.png" width="108" height="192">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/5.png" width="108" height="192">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/6.png" width="108" height="192">
 
 ## Feature extraction and matching results
 
