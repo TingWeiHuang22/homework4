@@ -27,4 +27,7 @@
 
 ## Implement different feature extrators
 
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif">
+
 ## Add some image processing to enhance effect
