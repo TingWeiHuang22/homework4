@@ -16,6 +16,12 @@
 
 ## Image alignment and infinite zooming effect
 
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine1.jpg">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine2.jpg">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine3.jpg">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine4.jpg">
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine5.jpg">
+
 ## Implement different feature extrators
 
 ## Add some image processing to enhance effect
