@@ -9,7 +9,9 @@
 <br/>
 
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/0.png" width="108" height="192"/>
+&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/1.png" width="108" height="192"/>
+&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/2.png" width="108" height="192"/>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/3.png" width="108" height="192"/>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/4.png" width="108" height="192"/>
