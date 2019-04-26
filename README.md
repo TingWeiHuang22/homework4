@@ -22,6 +22,9 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine4.jpg">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine5.jpg">
 
+<br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/giphy.gif">
+
 ## Implement different feature extrators
 
 ## Add some image processing to enhance effect
