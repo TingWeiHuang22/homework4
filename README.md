@@ -13,6 +13,7 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/5.png" width="216" height="384"><br>
 
 ## Feature extraction and matching results
+以下圖片為我們透過ORB這個方法進行Feature extraction and matching所產生的結果。而左邊的圖片為第一部分中所提及的moving forward的images，右邊為上一個timestep align完的圖片擷取中間的結果。
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches1.jpg" width="400" height="400">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches2.jpg" width="400" height="400">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches3.jpg" width="400" height="400"><br>
