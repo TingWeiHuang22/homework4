@@ -1,1 +1,13 @@
-"# homework4"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/TingWeiHuang22/homework4.git git push -u origin master
+# homework4
+  
+**電腦視覺特效-第六組**  
+  
+##  A sequence of moving-forward images in NTHU campus
+
+## Feature extraction and matching results
+
+## Image alignment and infinite zooming effect
+
+## Implement different feature extratorst
+
+## Add some image processing to enhance effect
