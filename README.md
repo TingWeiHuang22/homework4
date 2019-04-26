@@ -40,9 +40,9 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/combine5.jpg" width="216" height="384"><br><br>
 以下所產生的gif，其crossCheck的值皆為true，至於false的部分則暫不討論。<br>
 以下為透過SIFT feature extrator所產生出來的gif檔<br><br>
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif" width="216" height="384"><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif" width="216" height="384"><br><br>
 以下為透過SURF feature extrator所產生出來的gif檔<br><br>
-<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif" width="216" height="384"><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif" width="216" height="384"><br><br>
 從上述SIFT以及SURF的GIF檔案比較中可以看出圖片最後面中的建築物，SURF的建築物會比SIFT的建築物而言相對正常。吾組認為造成其中的原因在於以下的右圖中SURF extrator所產生出來的matching的線比起左圖SIFT extrator所產生出來的matching的線相對多許多，雖然兩者彼此中的線有幾條是交錯的，然而SURF的matching的線相對大量以至於產生出來的圖片內的建築物不會有斜體的現象。<br><br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/matches5.jpg" width="400" height="400">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/matches5.jpg" width="400" height="400">
