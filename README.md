@@ -12,6 +12,7 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/3.png" width="216" height="384">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/4.png" width="216" height="384">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/5.png" width="216" height="384">
+
 ## Feature extraction and matching results
 <br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches1.jpg" width="400" height="400">
@@ -19,6 +20,7 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches3.jpg" width="400" height="400"><br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches4.jpg" width="400" height="400">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/matches5.jpg" width="400" height="400">
+
 ## Image alignment and infinite zooming effect
 <br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine1.jpg" width="216" height="384">
@@ -28,7 +30,9 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/combine5.jpg" width="216" height="384">
 <br>
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/ORB/giphy.gif">
+
 ## Implement different feature extrators
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SIFT/giphy.gif">
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/giphy.gif">
+
 ## Add some image processing to enhance effect
