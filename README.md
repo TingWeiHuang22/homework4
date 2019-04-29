@@ -48,3 +48,5 @@
 <img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/SURF/matches5.jpg" width="400" height="400">
 
 ## Add some image processing to enhance effect
+以下為透過photoImpact來對原本經過ORB後且align完的圖片進行高斯模糊的結果，從以下的gif中可以發現，gif左半邊的顯示，雖然有加了高斯blur來消除圖片align後的線條差異，但是因為blur的效果過於明顯而有模糊線條出現，使得左半邊gif加入高斯blur的效果並不好。然而在gif的右半邊顯示，吾組在align後的圖片右半部分的線條差異加入高斯blur的效果，可以發現右半邊的效果比原本的gif檔案右半部分還要好!<br><br>
+<img src="https://github.com/TingWeiHuang22/homework4/blob/master/picture/blur.gif" width="216" height="384"><br>
